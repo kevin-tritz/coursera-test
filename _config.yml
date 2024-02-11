@@ -1,2 +1,9 @@
-name: My Site
-theme: minimal
+# Site settings
+title:Coursera Test
+author:
+  name: Kevin Tritz
+  email: ktritz@gmail.com
+description: "Great site about Jekyll on GH-Pages."
+
+# Build settings
+remote_theme: jekyll/minima
